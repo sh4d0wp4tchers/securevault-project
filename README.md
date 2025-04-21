@@ -4,7 +4,7 @@ Welcome to **SecureVault-Cipher**, an open-source project designed to explore ad
 
 ## Overview
 
-SecureVault-Cipher is a proof-of-concept project developed to push the boundaries of data security. The codebase includes a highly obfuscated module (`binary_mess.bin`) that demonstrates an experimental approach to encryption. While the module is functional, its internal workings are intentionally complex and not meant for direct human interpretation.
+SecureVault-Cipher is a proof-of-concept project developed to push the boundaries of data security. The codebase includes a highly obfuscated module (`trace.py`) that demonstrates an experimental approach to encryption. While the module is functional, its internal workings are intentionally complex and not meant for direct human interpretation.
 
 ### Key Features
 
