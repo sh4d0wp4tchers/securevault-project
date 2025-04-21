@@ -24,7 +24,7 @@ SecureVault-Cipher is a proof-of-concept project developed to push the boundarie
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/securevault-cipher.git
+   git clone https://github.com/sh4d0wp4tchers/securevault-cipher.git
    ```
 
 2. Navigate to the project directory:
@@ -35,7 +35,7 @@ SecureVault-Cipher is a proof-of-concept project developed to push the boundarie
 
 ### Usage
 
-The primary file, binary_mess.bin, is a standalone Python module. Due to its experimental nature, direct execution may not yield meaningful results without proper context.
+The primary file, trace.py, is a standalone Python module. Due to its experimental nature, direct execution may not yield meaningful results without proper context.
 
 To explore the module:
 ```bash
